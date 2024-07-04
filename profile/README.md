@@ -25,5 +25,7 @@ Our community brings together professionals and enthusiasts to share knowledge, 
 # 🚀 Get Started
 
 - Join our [Discord](https://discord.gg/6sFY5VZaW2) Community for discussions and exclusive giveaways
-- Become a Member of our Org by opening an [Issue](https://github.com/ImpicDevs/support/issues/new?assignees=&amp;labels=invite+me+to+the+organisation&amp;template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+- Upload your Amazing [Projects](https://impic.vercel.app/project-registration)
+- [Register](https://impic.vercel.app/registration) Yourselves as a Part of this Community
+- Become a Part of [Discussions](https://github.com/orgs/ImpicDevs/discussions)
 - Start you Journey with Open Source by Contributing to our [Projects](https://github.com/orgs/ImpicDevs/repositories)
